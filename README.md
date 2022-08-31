@@ -1,5 +1,7 @@
 # CheckTemplate
 
+* Push : Daily < 5pm
+
 ## Planning
 
 * Link calendar
