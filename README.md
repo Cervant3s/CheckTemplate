@@ -1,6 +1,7 @@
 # CheckTemplate
 
 * Push : Daily < 5pm
+* Collab : Ludovic@becode.org + arnaud@becode.org
 
 ## Planning
 
